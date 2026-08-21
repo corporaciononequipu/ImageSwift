@@ -1,0 +1,28 @@
+# Python & Entornos
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build & Dist
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Logs & Archivos Temporales
+*.log
+log_conversiones.txt
+*.tmp
+
+# Editores y Sistema Operativo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
